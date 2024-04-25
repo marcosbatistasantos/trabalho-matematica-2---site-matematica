@@ -1,10 +1,4 @@
-.cabecalho{
-    background-color:#0e0541;
+body{
+    background-color: blue;
     color: rgb(237, 234, 247);
 }
-.cabecalho-imagem{
-    align-items: center;
-    width: 50%;
-    }
-
-body{background-color: blue;}
